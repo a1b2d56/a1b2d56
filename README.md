@@ -1,16 +1,24 @@
-<h1>Hi! It's Devil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
+<h1 align="left">
+  Devil
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26"/>
+</h1>
 
-Computer Science student and a self-taught programmer. Currently learning Kotlin, Android development and UI/UX designing.
+<p align="left">
+  Computer Science student.<br/>
+  Self-taught by necessity, not trend.<br/>
+  Focused on <b>Android</b>, <b>Kotlin</b>, and thoughtful <b>UI/UX</b>.
+</p>
 
-![](https://komarev.com/ghpvc/?username=starry-shivam&style=flat&abbreviated=true)
+<br/>
 
-<h2>Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="30"</img></h2>
+<p align="left">
+  I like systems that feel <i>intentional</i> —<br/>
+  where code, interface, and logic move as one.
+</p>
 
-![](https://skillicons.dev/icons?i=kotlin,java,python,c,cpp,androidstudio,idea,vscode,linux,git,github,firebase,githubactions,html,arch,css,dart,eclipse,js,flutter,)
+<br/>
 
-<h2>GitHub Stats <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h2>
-  
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=a1b2d56&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=a1b2d56&theme=default&hide_border=false)
+<img src="https://komarev.com/ghpvc/?username=starry-shivam&style=flat&abbreviated=true" />
 
-<img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
+<hr/>
+
