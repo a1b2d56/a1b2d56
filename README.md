@@ -25,20 +25,6 @@
 <hr/>
 
 <h2 align="left">
-  GitHub Activity
-</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=starry-shivam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=starry-shivam&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starry-shivam&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
 
 <img
   src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gif"
